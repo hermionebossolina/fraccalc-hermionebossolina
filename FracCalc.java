@@ -36,9 +36,11 @@ public class FracCalc {
          first = s.substring(0);
          }
          
-         System.out.println("First is: " + first);
+         System.out.println("Whole is: " + first);
                   System.out.println("Numerator is: " + numer);
-                           System.out.println("Deminator is: " + dem);
+                           System.out.println("Denominator is: " + dem);
+                           
+                
     }
 
     public static String produceAnswer(String input)
